@@ -61,13 +61,13 @@ https://drive.google.com/file/d/1EDKVZMMytaygEqfoobrTj-7o5niZJ2Ag/view?usp=shari
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/batman333777/OptimalBookPlatformSelection.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd OptimalBookPlatformSelection/
 ```
 
 Install dependencies
