@@ -73,6 +73,6 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  gradle task
+  gradle test
 ```
 
