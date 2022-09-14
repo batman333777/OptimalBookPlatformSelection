@@ -1,0 +1,43 @@
+{"9789389931846":{
+"Book Name":"You Can",
+"Publisher":"Fingerprint! Publishing (6 August 2020); Prakash Books India Pvt. Ltd. - 113 A, Dary Ganj, New Delhi - 110002",
+"Author":"George Matthew Adams",
+"Qty": "5",
+"Amazon":{
+"Price":"495.0",
+"Is available":"Yes",
+},
+"Flipkart":{
+"Price":"530.0",
+"Is available":"Yes"
+}
+},
+"9781628570823":{
+"Book Name":"Blow Out Summer",
+"Publisher":"Strategic Book Publishing & Rights Agency, LLC (26 July 2014)",
+"Author":"Denise Ann Stock",
+"Qty": "3",
+"Amazon":{
+"Price":"3543.0",
+"Is available":"Yes",
+},
+"Flipkart":{
+"Price":"5685.0",
+"Is available":"No"
+}
+},
+"9789390166268":{
+"Book Name":"The Psychology of Money",
+"Publisher":"Jaico Publishing House (1 September 2020); Jaico Publishing House, JA-1, Jash Chambers, Off Sir Phirozshah Mehtra Road, Fort, Mumbai, Maharashtra 400023 Phone: 022 4030 6767",
+"Author":"Morgan Housel",
+"Qty": "2",
+"Amazon":{
+"Price":"360.0",
+"Is available":"Yes",
+},
+"Flipkart":{
+"Price":"450.0",
+"Is available":"Yes"
+}
+},
+}
